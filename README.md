@@ -1,3 +1,3 @@
 # kora-project
 yallakora-web
-new-project
+# new-project
